@@ -1,0 +1,2 @@
+# EarCryptoCoin
+My crypto coin
